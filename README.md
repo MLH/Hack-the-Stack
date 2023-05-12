@@ -46,6 +46,6 @@ Dashboards: You can check out your progress here:
 
 ## Don’t know what DDOS is? Check out these resources:
 
-- Denial of Service Attack;[Wikipedia](https://en.wikipedia.org/wiki/Denial-of-service_attack)
+- [Denial of Service Attack; Wikipedia](https://en.wikipedia.org/wiki/Denial-of-service_attack)
 - [What is a DDoS?](https://www.cloudflare.com/learning/ddos/what-is-a-ddos-attack/)
 - [Stack under attack](https://stackoverflow.blog/2022/05/16/stack-under-attack-what-we-learned-about-handling-ddos-attacks/): Read more about why cybersecurity is so important to Stack Overflow
