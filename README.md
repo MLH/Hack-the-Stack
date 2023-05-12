@@ -35,7 +35,7 @@ You can participate in the following three ways by order of increasing complexit
 The challenge will be active **June 5th 12:00PM EST to June 12th 12:00 PM EST.**
 
 ### Designated Route: 
-The route we will use is <a href="https://stackoverflow.com/admin.php" target="blank">https://stackoverflow.com/admin.php</a>
+The route we will use is https://stackoverflow.com/admin.php
 - In order to identify your work, we will need you to append a unique identifier to the end of the route.
 - For example, https://stackoverflow.com/admin.php?rosendo-hack-the-stack
 - We will be able to display your specific route and the traffic you are pointing towards it. Simply follow
