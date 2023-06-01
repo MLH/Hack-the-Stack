@@ -41,7 +41,7 @@ The route we will use is [https://stackoverflow.com/admin.php](https://stackover
 - We will be able to display your specific route and the traffic you are pointing towards it. Simply follow
 the same format as above! If you have a common name, include an additional identifier that will make
 your route more unique (a random sequence of numbers and letters for instance).
-- Dashboards: You can check out your progress here: [https://hackp.ac/ghwsec-stackoverflow-dashboard](https://hackp.ac/ghwsec-stackoverflow-dashboard)
+- Leaderboard: You can check out your progress here: [https://hackp.ac/ghwsec-stackoverflow-dashboard](https://hackp.ac/ghwsec-stackoverflow-leaderboard)
 
 ## Don’t know what DDOS is? Check out these resources:
 
