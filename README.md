@@ -8,7 +8,8 @@ challenge-related activity and show your results along with all other participan
 Additional rules can be found below in the Designated Route section.
 
 ### Overview: 
-Stack Overflow is partnering with Major League Hacking as part of Global Hack Week October!
+Stack Overflow is partnering with Major League Hacking as part of Global Hack Week!
+
 Throughout this week, we will be challenging you to Hack the Stack!
 
 Like many large internet properties, Stack Overflow regularly deals with DDOS attacks that try to take down our
