@@ -14,7 +14,7 @@ Throughout this week, we will be challenging you to Hack the Stack!
 
 Like many large internet properties, Stack Overflow regularly deals with DDOS attacks that try to take down our
 site by sending a deluge of traffic. Our SRE team is responsible for ensuring that we can defend against these and
-keep Stack Overflow up and running for developers in search of the answers they need to complete their work.
+keep Stack Overflow up and running for developers in search of the answers they need to complete their work. Hi I'm here to contribute
 
 _For this challenge_, we have devised a way for you to send large amounts of traffic to a specific route on the public
 Q&A site in a way that is fun and safe. The Stack Overflow SRE team will provide you with progress on your efforts in
